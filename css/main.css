@@ -2,11 +2,8 @@
 try again to do gist?
 Seemed to not work before.
 The one in dynalist is the source of truth
-@import url("https://gist.githubusercontent.com/kevinawoo/5e63db6289228fb53ae22cef24822c74/raw/4769fb53d267fc360610181fbf8c70d940faba5b/dynalist-css.css");
+@import url("https://kevinawoo.github.io/dynalist-css/css/main.css");
 */
-
-@import url("https://gist.githubusercontent.com/kevinawoo/5e63db6289228fb53ae22cef24822c74/raw/4769fb53d267fc360610181fbf8c70d940faba5b/dynalist-css.css");
-
 
 /*==================font related==================*/
 @import url("https://cdn.jsdelivr.net/gh/tonsky/FiraCode@4/distr/fira_code.css");
