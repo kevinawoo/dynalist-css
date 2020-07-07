@@ -143,6 +143,7 @@ You can import it like:
 
 
 /*=============<show tag emoji text when not editing>==================*/
+/*
 .node-inline-item,
 .node-tag:after {
   content: "🔖";
@@ -155,6 +156,7 @@ You can import it like:
 .node-tag {
   font-size: 0px;
 }
+*/
 
 .node-inline-item,
 .node-tag+span {
