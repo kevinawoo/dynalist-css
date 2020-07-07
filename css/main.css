@@ -27,8 +27,8 @@ You can import it like:
   border-width: 2px;
 }
 
-.Node.is-currentRoot > .Node-self .Node-contentContainer,
-.Node.is-currentRoot > .Node-self.is-heading .Node-contentContainer {
+.MacOS .Node.is-currentRoot > .Node-self .Node-contentContainer,
+.MacOS .Node.is-currentRoot > .Node-self.is-heading .Node-contentContainer {
   font-weight: bold;
   font-size: 22px;
 }
