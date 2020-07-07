@@ -43,7 +43,8 @@ You can import it like:
       font-size: 13px;
   }
 
-  .is-mobile .is-smallFont .Node-contentContainer {
+  .is-mobile .is-smallFont .Node-contentContainer,
+  .is-mobile .is-smallFont .node-inline-item {
     font-size: 13px !important;
   }
   /*==================mobile font related==================*/
