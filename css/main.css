@@ -44,8 +44,7 @@ You can import it like:
   }
 
   .is-mobile .is-smallFont .Node-contentContainer {
-    /*color: var(--gray-1);*/
-    font-size: 13.5px;
+    font-size: 13px;
   }
   /*==================mobile font related==================*/
 /*==================</font related>==================*/
