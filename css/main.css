@@ -143,24 +143,14 @@ You can import it like:
 
 
 /*=============<show tag emoji text when not editing>==================*/
-/*
-.node-inline-item,
-.node-tag:after {
+a.node-tag {
+/*   background-color:yellow; */
+  display:none;
+}
+
+a.node-tag+span:after {
   content: "🔖";
-  display:inline-block !important;
-  font-size: 16px;
-}
-
-
-.node-inline-item,
-.node-tag {
-  font-size: 0px;
-}
-*/
-
-.node-inline-item,
-.node-tag+span {
-/*   background-color:yellow !important; */
-  font-size: 0px;
+/*   background-color:yellow; */
+/*   display:block; */
 }
 /*=============</show tag emoji text when not editing>==================*/
